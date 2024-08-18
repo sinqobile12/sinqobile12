@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building website
 - 📫 How to reach me sinqobilenkabinde3469@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I code for fun
 
 <!---
 sinqobile12/sinqobile12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
